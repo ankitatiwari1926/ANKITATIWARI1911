@@ -1,0 +1,1 @@
+SELECT Name, Age, Rollno FROM Nitraipur2;

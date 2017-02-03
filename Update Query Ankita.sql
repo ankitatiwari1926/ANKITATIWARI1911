@@ -1,0 +1,4 @@
+SET SQL_SAFE_UPDATES=0;
+UPDATE Nitraipur2
+SET Name ='Savi'
+WHERE Age=22;

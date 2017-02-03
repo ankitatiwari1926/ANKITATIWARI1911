@@ -1,0 +1,3 @@
+SELECT Age
+FROM Nitraipur2
+ORDER BY Age DESC;
